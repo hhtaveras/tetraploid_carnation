@@ -1,2 +1,1 @@
-scripts/gwas_cv_runs/*.rds filter=lfs diff=lfs merge=lfs -text
 gwas_cv_runs/*.rds filter=lfs diff=lfs merge=lfs -text
